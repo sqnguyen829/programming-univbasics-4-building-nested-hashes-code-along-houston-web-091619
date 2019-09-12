@@ -7,7 +7,7 @@ epic_tragedy = {
         age: "53"
       },
       :matriarch => {
-        name: "Lady Montague", 
+        :name => "Lady Montague", 
         age: "54"
       },
       :hero => {
